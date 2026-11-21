@@ -1,0 +1,5 @@
+UMT User Authentication and Role Management - The users require to register and login their credentials while suppoerting distinct role-based access such as the customers, cafe vendors and system administrators.
+Cafe Selection and Menu Browsing - The system displays cafe option user can choose and browse through the menu of the food/drink,real-time availability and customize options based on their preference.
+Cart Management and Order Fullfillment - The user browse option and add to cart, customize how they want their order to be, confirm order and choose between self-pickup or delivery (selecting drop-off point).
+Payment Process - The system shall calculate the total price and customer make a purchase via cash or cashless method like FPX, online banking, DuitNow QR or E-Wallets.
+Order Management and Pickup Status Tracking - The cafe vendor accepts/updates order by stating its current status like (order received, preparing, ready for pickup or out for delivery and sends notification to customer.
